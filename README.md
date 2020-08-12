@@ -9,6 +9,9 @@ Score Grade
 If the user enters a value out of range, print a suitable error message and exit. For the test, enter a score of 0.85.
 
 #solution for above prblem statement
+
+
+
 score =  float(input("enter the score"))
 
 if score<1.0:
